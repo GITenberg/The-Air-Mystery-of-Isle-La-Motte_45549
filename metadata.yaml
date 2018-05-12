@@ -1,0 +1,32 @@
+_repo: The-Air-Mystery-of-Isle-La-Motte_45549
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45549-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Craine, E. J. (Edith Janice)
+    alias: Craine, Edith Janice
+    birthdate: 1881
+    gutenberg_agent_id: '43315'
+    url: http://www.gutenberg.org/2009/agents/43315
+description: ''
+gutenberg_issued: '2014-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Air pilots -- Juvenile fiction'
+- !lcsh 'Airplanes -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Stepbrothers -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Royal Canadian Mounted Police -- Juvenile fiction'
+title: The Air Mystery of Isle La Motte
+url: http://www.gutenberg.org/ebooks/45549
